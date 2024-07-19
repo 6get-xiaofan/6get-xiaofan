@@ -28,3 +28,4 @@ Hi, I'm Gabriel Ryder 😉, a programmer 👨🏻‍💻 from China 🇨🇳. I'
 - 👀 See my [Bilibili](https://space.bilibili.com/402653186) to get more info.
 
 ![Gabriel Ryder's github stats](https://github-readme-stats.vercel.app/api?username=6get-xiaofan&show_icons=true&hide_border=true)
+![Gabriel Ryder's github stats](https://github-readme-stats.vercel.app/api?username=Melon-Studio&show_icons=true&hide_border=true)
