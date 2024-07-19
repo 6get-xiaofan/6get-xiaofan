@@ -4,7 +4,7 @@
   <img align="left" alt="Wechat" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/tencentqq.svg" />
 </a>
 <a href="https://space.bilibili.com/402653186">
-  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/bilibili.svg" />
+  <img align="left" alt="Bilibili" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/bilibili.svg" />
 </a>
 <a href="mailto:chinabga@gmail.com">
   <img align="left" alt="'Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
@@ -13,14 +13,13 @@
 <br />
 <br />
 
-Hi, I'm Gabriel Ryder 😉, a programmer 👨🏻‍💻 from China 🇨🇳. I'm an open-source profession and always develop in C#, Java, Vue 🐍. Currently, I am a university student working on open source products for ![07D29E97](https://github.com/user-attachments/assets/43b8ecd0-0f2b-40ef-8753-8a23a6886b5f)
- [Melon Studio](https://github.com/Melon-Studio). 
+Hi, I'm Gabriel Ryder 😉, a programmer 👨🏻‍💻 from China 🇨🇳. I'm an open-source profession and always develop in C#, Java, Vue 🐍. Currently, I am a university student working on open source products for [Melon Studio](https://github.com/Melon-Studio). 
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
 **Current Status Quo**
 
-- 👨🏻‍💻 I’m currently working on open source products for ![07D29E97](https://github.com/user-attachments/assets/43b8ecd0-0f2b-40ef-8753-8a23a6886b5f).
+- 👨🏻‍💻 I’m currently working on open source products for [Melon Studio](https://github.com/Melon-Studio). 
 - 🌱 I am currently deep learning C#, Java, Vue.
 - 🤔 My research interests are in the field of game development and artificial intelligence.
 - 💼 I am working as an intern in Neusoft Group.
