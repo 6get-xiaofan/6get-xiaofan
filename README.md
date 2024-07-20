@@ -3,12 +3,11 @@
   <a href="https://tva1.sinaimg.cn/large/007S8ZIlgy1ggrqy7om28j30j80omjtq.jpg">
     <img align="left" alt="Wechat" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/tencentqq.svg" />
   </a>
-  [![Bilibili](https://github.com/user-attachments/assets/4454d161-e46f-4a31-b3b1-afa9520c8d91 "Bilibili")](https://space.bilibili.com/402653186)
   <a href="mailto:chinabga@gmail.com">
     <img align="left" alt="'Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
   </a>
 </div>
-
+  [![Bilibili](https://github.com/user-attachments/assets/4454d161-e46f-4a31-b3b1-afa9520c8d91 "Bilibili")](https://space.bilibili.com/402653186)
 
 <br />
 <br />
