@@ -7,7 +7,9 @@
     <img align="left" alt="'Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
   </a>
 </div>
-  [![Bilibili](https://github.com/user-attachments/assets/4454d161-e46f-4a31-b3b1-afa9520c8d91 "Bilibili")](https://space.bilibili.com/402653186)
+![bilibili](https://github.com/user-attachments/assets/b436c723-8552-4886-a35b-dace9b05c465)
+
+  [![Bilibili](https://github.com/user-attachments/assets/4454d161-e46f-4a31-b3b1-afa9520c8d91)](https://space.bilibili.com/402653186)
 
 <br />
 <br />
