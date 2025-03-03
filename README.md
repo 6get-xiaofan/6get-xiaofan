@@ -21,8 +21,8 @@ Hi, I'm Gabriel Ryder 😉, a programmer 👨🏻‍💻 from China 🇨🇳. I'
 
 - 👨🏻‍💻 I’m currently working on open source products for [Melon Studio](https://github.com/Melon-Studio). 
 - 🌱 I am currently deep learning C#, Java, Vue.
-- 🤔 My research interests are in the field of game development and artificial intelligence.
-- 💼 I am working as an intern in Neusoft Group.
+- 🤔 My research interests are in the field of game development and desktop programs.
+- 💼 I had an internship in Neusoft Group, currently in school.
 - 💬 Ask me about anything, I would like to answer.
 - 📫 Please email via chinabga@gmail.com to reach me.
 - 👀 See my [Bilibili](https://space.bilibili.com/402653186) to get more info.
